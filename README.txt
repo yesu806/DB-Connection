@@ -1,0 +1,1 @@
+For connecting our application to the database, this code will be used.
